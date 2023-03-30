@@ -34,7 +34,7 @@ int main() {
      
      if ((xArea[0] == 'B') || (xArea[0] == 'b')){           
          printf("Veículo que não degrada a natureza. \n");
-         } //xArea[0] é uma string vazia e está sendo colocado UMA letra dentro
+         } //xArea[0] é uma string vazia e está sendo colocado uma letra dentro
      else 
          if ((xArea[0] == 'C') || (xArea[0] == 'c') || (xArea[0] == 'A') || (xArea[0] == 'a')){
              printf("Transporte movidos por gasolina ou álcool. \n");
